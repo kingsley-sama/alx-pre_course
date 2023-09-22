@@ -4,7 +4,7 @@
 
 # GitHub Learning Projects
 
-Welcome to the GitHub Learning Projects subrepository! This space is dedicated to helping you enhance your understanding of GitHub and Git through hands-on projects and exercises. Whether you're a beginner looking to get started or an experienced user aiming to sharpen your skills, you've come to the right place.
+Welcome to the GitHub Learning Projects subrepository! This space is dedicated to helping you enhance your understanding of GitHub and Git through hands-on projects and exercises. Whether you're a beginner looking to get started or an experienced user aiming to sharpen your skills, you've come to the right place. Although this are not really a tutorial from they are just and introduction to ther thing i have done personally but i would still love to share them.
 
 <p align="center">
   <img src="git-logo.gif" alt="Git Logo" width="300" height="200">
